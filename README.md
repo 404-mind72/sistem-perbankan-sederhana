@@ -13,7 +13,7 @@ Sistem Perbankan ini merupakan projek sederhana yang menggunakan bahasa pemrogra
 3. Pilih angka sesuai dengan pilihan yang diinginkan seperti melakukan pendaftaran nasabah baru, peminjaman, penarikan dan transfer  
 ## 📂 Project Structure  
 ```
-📁 assets/                 # Folder Aset 
+📁 assets                 # Folder Aset 
 🐍 CorpBank.py        
 ```
 
