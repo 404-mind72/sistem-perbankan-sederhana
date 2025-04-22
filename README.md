@@ -11,4 +11,4 @@ Sistem Perbankan ini merupakan projek sederhana yang menggunakan bahasa pemrogra
 3. selamat menggunakan 🙌
 
 ## 🖥️ Program Preview  
-![Main Page Preview](assets/tampilan_awal.PNG)
+![Tampilan Utama](assets/tampilan_awal.PNG)
