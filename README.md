@@ -8,5 +8,7 @@ Sistem Perbankan ini merupakan projek sederhana yang menggunakan bahasa pemrogra
 
 1. Download script program
 2. Jalankan script program menggunakan text editor (sesuaikan dengan text editor yang kamu miliki) 
-3. selamat menggunakan 🙌 
+3. selamat menggunakan 🙌
+
+## 🖥️ Program Preview  
 ![Main Page Preview](assets/tampilan_awal.PNG)
