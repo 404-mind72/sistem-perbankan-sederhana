@@ -15,3 +15,17 @@ Sistem Perbankan ini merupakan projek sederhana yang menggunakan bahasa pemrogra
 ![Tampilan Utama](assets/tampilan_awal.PNG)
 2. Pendaftaran Nasabah
 ![Nasabah Baru](assets/pembuatan_nasabah_baru.PNG)
+3. Fitur Bank
+![FiturBank](assets/fitur_bank.PNG)
+4. Fitur Nabung
+![Nabung](assets/fitur_nabung.PNG)
+5. Fitur Penarikan
+![Penarikan](assets/fitur_penarikan.PNG)
+6. Menambahkan Nasabah Baru
+![Nasabah Baru](assets/nasabah_baru.PNG)
+7. Fitur Transfer Sesama Nasabah Menggunakan Kode Rekening Bank
+![transfer](assets/fitur_transfer.PNG)
+8. List Untuk Melihat Daftar Nasabah Yang Terdaftar
+![Daftar Nasabah](assets/daftar_nasabah.PNG)
+9. Keluar Program
+![Exit](assets/exit.PNG)
