@@ -1,5 +1,5 @@
 # 🏦 Sistem Perbankan Sederhana dengan Python
-Proyek ini merupakan simulasi sistem perbankan sederhana yang dibangun menggunakan bahasa pemrograman Python. Sistem ini memungkinkan pengguna untuk melakukan berbagai operasi perbankan dasar seperti menabung, menarik uang, transfer antar nasabah, hingga pendaftaran nasabah baru dengan kode PIN otomatis.. kamu bisa menggunakan program ini untuk kebutuhan seperti tugas sekolah dan lain sebagainya serta kamu bisa memodifikasi sesuai dengan keinginan mu 👍.
+Proyek ini merupakan simulasi sistem perbankan sederhana yang dibangun menggunakan bahasa pemrograman Python. Sistem ini memungkinkan pengguna untuk melakukan berbagai operasi perbankan dasar seperti menabung, menarik uang, transfer antar nasabah, hingga pendaftaran nasabah baru dengan kode PIN otomatis. kamu bisa menggunakan program ini untuk kebutuhan seperti tugas sekolah dan lain sebagainya serta kamu bisa memodifikasi sesuai dengan keinginan mu 👍.
 
 # Bahasa Pemrograman 
 🐍 **Python**    
