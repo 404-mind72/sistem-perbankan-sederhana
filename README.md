@@ -10,5 +10,8 @@ Sistem Perbankan ini merupakan projek sederhana yang menggunakan bahasa pemrogra
 2. Jalankan script program menggunakan text editor (sesuaikan dengan text editor yang kamu miliki) 
 3. selamat menggunakan 🙌
 
-## 🖥️ Program Preview  
+## 🖥️ Program Preview 
+1. Tampilan Menu Utama
 ![Tampilan Utama](assets/tampilan_awal.PNG)
+2. Pendaftaran Nasabah
+![Nasabah Baru](assets/pembuatan_nasabah_baru.PNG)
