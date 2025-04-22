@@ -24,7 +24,7 @@ Sistem Perbankan ini merupakan projek sederhana yang menggunakan bahasa pemrogra
 6. Menambahkan Nasabah Baru
 ![Nasabah Baru](assets/nasabah_baru.PNG)
 7. Fitur Transfer Sesama Nasabah Menggunakan Kode Rekening Bank
-![transfer](assets/fitur_transfer.PNG)
+![transfer](assets/hasil_transfer.PNG)
 8. List Untuk Melihat Daftar Nasabah Yang Terdaftar
 ![Daftar Nasabah](assets/daftar_nasabah.PNG)
 9. Keluar Program
